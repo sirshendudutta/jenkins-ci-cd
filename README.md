@@ -5,7 +5,7 @@ AWS EC2 Instance
     Instances(running)
     Launch instances
 
-Screenshot 2023-02-01 at 12 37 45 PM
+
 Install Jenkins.
 
 Pre-Requisites:
